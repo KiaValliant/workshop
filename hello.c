@@ -2,6 +2,10 @@
 
 int main()
 {
-    printf("Hello, World!\n");
+    int a = 1;
+    if (a == 1)
+    {
+        printf("Hello, World!\n");
+    }
     return 0;
 }
